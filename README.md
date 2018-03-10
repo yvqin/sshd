@@ -1,6 +1,6 @@
 # rsync ssh 文件同步服务端 镜像
 
-* port  22 873   
+* port  22   
 
 # ENV 环境变量配置 
 
